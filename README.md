@@ -5,20 +5,19 @@ Sou um desenvolvedor em formação, com forte interesse em **desenvolvimento web
 ## 🚀 Habilidades
 
 - **Frontend:** JavaScript, React, TypeScript, HTML, CSS, Tailwind CSS, Material UI, Bootstrap
-- **Backend:** Node.js, SQL, MongoDB, MySQL
+- **Backend:** C#, Python, SQL, MongoDB, MySQL
 - **Mobile:** React Native
-- **Ferramentas:** Git, GitHub, Figma, VSCode
 - **Outras Tecnologias:** Next.js
 
 ## 💡 Projetos
 
-Tenho trabalhado em diversos projetos pessoais e coletivos, utilizando tecnologias como **React** e **TypeScript**. Participo ativamente em fóruns e projetos colaborativos, principalmente através da plataforma **Alura** e da **FormaçãoDev**.
+Tenho trabalhado em diversos projetos pessoais e coletivos. Participo ativamente em fóruns e projetos colaborativos, principalmente através da plataforma **Alura** e da **FormaçãoDev**.
 
 Confira meu repositório de projetos no [GitHub](https://github.com/Isaque-Valle).
 
 ## 🎓 Formação e Cursos
 
-Além da graduação, realizei cursos em instituições como **Alura**, **Udemy** e **FormaçãoDev**, focando no desenvolvimento full stack, acessibilidade web e tecnologias modernas de frontend e backend.
+Além da graduação, realizei cursos em instituições como **Alura**, **b3(educação)**, **FormaçãoDev**, **Udemy** focando no desenvolvimento full stack, acessibilidade web e tecnologias modernas de frontend e backend.
 
 ## 📫 Contato
 
