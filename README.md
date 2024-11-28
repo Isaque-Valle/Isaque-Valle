@@ -4,7 +4,7 @@ Sou um desenvolvedor em formação, com forte interesse em **desenvolvimento web
 
 ## 🚀 Habilidades
 
-- **Frontend:** JavaScript, React, TypeScript, HTML, CSS, Tailwind CSS, Material UI, Bootstrap
+- **Frontend:** JavaScript, React, TypeScript, HTML, CSS, Tailwind CSS
 - **Backend:** C#, Java, SQL, MongoDB, MySQL
 - **Mobile:** React Native
   
